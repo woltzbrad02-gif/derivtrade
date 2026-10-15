@@ -1,0 +1,6 @@
+{
+  "paymentMethod": "Bank transfer",
+  "tradeId": "Order ID 1006184jama",
+  "amount": "5000 USD",
+  "status": "waiting"
+}
