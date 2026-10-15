@@ -1,6 +1,6 @@
 {
-  "paymentMethod": "Bank transfer",
-  "tradeId": "Order ID 1006184jama",
-  "amount": "5000 USD",
+  "paymentMethod": "EcoCash",
+  "tradeId": "Order ID 1131235",
+  "amount": "20 USD",
   "status": "waiting"
 }
