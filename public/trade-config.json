@@ -2,5 +2,5 @@
   "paymentMethod": "Central bank",
   "tradeId": "Order ID 139872",
   "amount": "500 USD",
-  "status": "waiting"
+  "status": "complete"
 }
