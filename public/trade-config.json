@@ -1,6 +1,6 @@
 {
-  "paymentMethod": "EcoCash",
-  "tradeId": "Order ID 1131235",
-  "amount": "20 USD",
+  "paymentMethod": "Central bank",
+  "tradeId": "Order ID 139872",
+  "amount": "500 USD",
   "status": "waiting"
 }
