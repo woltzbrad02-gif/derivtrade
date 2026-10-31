@@ -1,6 +1,6 @@
 {
-  "paymentMethod": "Censndnd",
-  "tradeId": "Order ID 123939",
-  "amount": "250 USD",
-  "status": "complete"
+  "paymentMethod": "Bank tranfer",
+  "tradeId": "Order ID 1204828",
+  "amount": "र12500",
+  "status": "waiting"
 }
